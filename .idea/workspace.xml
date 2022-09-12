@@ -4,26 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65698472-2305-4341-b7ab-95b60b75f867" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/radio/BroadcastBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts/Advertising.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts/BaseBroadcast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts/Broadcast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts/CompoundBroadcast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts/Interview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/radio/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/radio/RadioStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="65698472-2305-4341-b7ab-95b60b75f867" name="Changes" comment="ini commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts_composer/Broadcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/radio/BroadcastBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/radio/BroadcastBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts/Advertising.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts_composer/Advertising.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts/BaseBroadcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts_composer/BaseBroadcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts/Broadcast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts/CompoundBroadcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts_composer/CompoundBroadcast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts/Interview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts_composer/Interview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/radio/Broadcasts_composer/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/radio/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/radio/Builder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +81,16 @@
       <option name="presentableId" value="Default" />
       <updated>1662800161049</updated>
       <workItem from="1662800162775" duration="17835000" />
-      <workItem from="1662970226310" duration="9732000" />
+      <workItem from="1662970226310" duration="10362000" />
     </task>
+    <task id="LOCAL-00001" summary="ini commit">
+      <created>1662981830292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662981830292</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +106,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ini commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="ini commit" />
   </component>
 </project>

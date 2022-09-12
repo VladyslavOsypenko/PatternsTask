@@ -1,4 +1,4 @@
-package org.radio.Broadcasts;
+package org.radio.Broadcasts_composer;
 
 public class Song extends BaseBroadcast {
     private String singerName;

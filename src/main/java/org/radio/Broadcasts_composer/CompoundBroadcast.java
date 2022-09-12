@@ -1,7 +1,4 @@
-package org.radio.Broadcasts;
-
-import org.radio.Broadcasts.BaseBroadcast;
-import org.radio.Broadcasts.Broadcast;
+package org.radio.Broadcasts_composer;
 
 import java.util.ArrayList;
 import java.util.Arrays;

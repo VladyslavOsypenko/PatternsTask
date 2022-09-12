@@ -1,6 +1,4 @@
-package org.radio.Broadcasts;
-
-import org.radio.Broadcasts.BaseBroadcast;
+package org.radio.Broadcasts_composer;
 
 public class Interview extends BaseBroadcast {
 

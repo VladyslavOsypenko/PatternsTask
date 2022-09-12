@@ -1,4 +1,4 @@
-package org.radio.Broadcasts;
+package org.radio.Broadcasts_composer;
 
 public class BaseBroadcast implements Broadcast {
     String broadcastName;
@@ -17,10 +17,8 @@ public class BaseBroadcast implements Broadcast {
     public BaseBroadcast (int duration){
         this.broadcastDuration = duration;
     }
-    @Override
-    public void getBroadcast() {
 
-    }
+
 
     @Override
     public String toString() {
@@ -37,7 +35,7 @@ public class BaseBroadcast implements Broadcast {
     public void setBroadcastName(String broadcastName) {
         this.broadcastName = broadcastName;
     }
-
+    @Override
     public int getBroadcastDuration() {
         return broadcastDuration;
     }

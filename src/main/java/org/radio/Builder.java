@@ -1,8 +1,8 @@
 package org.radio;
 
-import org.radio.Broadcasts.Advertising;
-import org.radio.Broadcasts.Broadcast;
-import org.radio.Broadcasts.Interview;
+import org.radio.Broadcasts_composer.Advertising;
+import org.radio.Broadcasts_composer.Broadcast;
+import org.radio.Broadcasts_composer.Interview;
 
 public interface Builder {
 
